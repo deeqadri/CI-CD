@@ -10,4 +10,4 @@ steps:
     MY_PASS:
       from_secret: MY_PASS
   commands:
-  - pip3 install 
+  - pip3 help
