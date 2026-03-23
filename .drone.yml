@@ -5,7 +5,7 @@ name: Testing Python CI/CD
 
 steps:
 - name: Install and deploy
-  image: python
+  image: deeqadri79/netauto
   environment:
     MY_PASS:
       from_secret: MY_PASS
